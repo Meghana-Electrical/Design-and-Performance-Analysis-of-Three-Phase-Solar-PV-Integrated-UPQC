@@ -27,9 +27,13 @@ operating conditions.
 
 ## How to Read this Project ?
  To understand and Configure this project, You need to know some pre-requisites they are:
+ 
     -> A Laptop/PC
+    
     -> MATLAB-Simulink (version: 2009a)
+    
     -> Basic Understanding of Simulink Project diagram and internal connections
+    
  For More details , Download the PDF available and Go through that.
  
  
