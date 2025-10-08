@@ -33,7 +33,10 @@ operating conditions.
     -> MATLAB-Simulink (version: 2009a)
     
     -> Basic Understanding of Simulink Project diagram and internal connections
-    
+
+ Download the MatLab project files and open with the MATLAB application available in your system.
+
+ 
  For More details , Download the PDF available and Go through that.
  
  
