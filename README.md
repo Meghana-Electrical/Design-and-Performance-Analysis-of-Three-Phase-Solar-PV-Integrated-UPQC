@@ -24,3 +24,5 @@ series converter maintains a pure sinusoidal voltage at the load terminal regard
 sag/swell and harmonics present in the grid voltage. The effectiveness of the proposed 
 system is validated through simulation implementation under various static and dynamic 
 operating conditions.
+
+## How to Read this Project ?
