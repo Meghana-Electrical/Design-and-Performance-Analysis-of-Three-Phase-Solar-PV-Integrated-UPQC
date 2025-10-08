@@ -34,7 +34,16 @@ operating conditions.
     
     -> Basic Understanding of Simulink Project diagram and internal connections
 
- Download the MatLab project files and open with the MATLAB application available in your system.
+ ## NOTE: 
+  This Project compraises of three types of UPQC system schematics 
+  They are:
+      > Sag UPQC system
+      > Swell UPQC system
+      > SagSwll UPQC system
+   Make sure that proper knowlwdge about the project will help you to find out which part or the whole part of UPQC performance system should choose for demonstration/Submission.
+   The MDL files (MATLAB project files are uploaded separately in this Respiratory.
+
+ Download the MatLab project files (MDL files) and open with the MATLAB application available in your system.
 
  
  For More details , Download the PDF available and Go through that.
